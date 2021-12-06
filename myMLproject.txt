@@ -1,0 +1,14 @@
+Customer Churn Prediction (Final Project)
+https://gallery.cortanaintelligence.com/Experiment/Customer-Churn-Prediction-MIBProject
+
+Text Analysing Customer Complaints
+https://gallery.cortanaintelligence.com/Experiment/CustomerComplaints-TextAnalytics
+
+CallCenter KMeansClustering
+https://gallery.cortanaintelligence.com/Experiment/CallCenter-KMeansClustering
+
+AdultCensus Logistic Regression with Tune Model Hyperparameter
+https://gallery.cortanaintelligence.com/Experiment/AdultCensus-LogisticReg-TuneModelHyperP
+
+Loan Approval Prediction (Two-class Logisitic Regression)
+https://gallery.cortanaintelligence.com/Experiment/LoanApprovalPrediction-two-class-LogisticRegression
